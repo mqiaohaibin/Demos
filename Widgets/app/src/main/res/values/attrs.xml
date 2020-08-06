@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BarChartView">
+        <attr name="axisColor" format="color" />
+        <attr name="axisWidth" format="dimension" />
+        <attr name="android:entries" />
+        <attr name="android:entryValues" />
+        <attr name="maxEntryValue" format="float" />
+        <attr name="android:textSize" />
+        <attr name="barColor" format="color" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="barStyle" format="enum">
+            <enum name="fill" value="0" />
+            <enum name="stroke" value="1" />
+            <enum name="fillAndStroke" value="2" />
+        </attr>
+        <attr name="chartWidth" format="dimension" />
+        <attr name="chartSpace" format="dimension" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries">
+        <item>Jelly Bean-4.1</item>
+        <item>Jelly Bean-4.2</item>
+        <item>Jelly Bean-4.3</item>
+        <item>KitKat-4.4</item>
+        <item>Lollipop-5.0</item>
+        <item>Lollipop-5.1</item>
+        <item>Marshmallow-6.0</item>
+        <item>Nougat-7.0</item>
+        <item>Nougat-7.1</item>
+        <item>Oreo-8.0</item>
+        <item>Oreo-8.1</item>
+        <item>Pie-9.0</item>
+        <item>Android10-10.0</item>
+    </string-array>
+    <array name="entryValues">
+        <item>0.006</item>
+        <item>0.008</item>
+        <item>0.003</item>
+        <item>0.04</item>
+        <item>0.018</item>
+        <item>0.074</item>
+        <item>0.112</item>
+        <item>0.065</item>
+        <item>0.054</item>
+        <item>0.073</item>
+        <item>0.14</item>
+        <item>0.313</item>
+        <item>0.082</item>
+    </array>
+
+    <integer-array name="intEntryValues">
+        <item>6</item>
+        <item>8</item>
+        <item>3</item>
+        <item>40</item>
+        <item>18</item>
+        <item>74</item>
+        <item>112</item>
+        <item>65</item>
+        <item>54</item>
+        <item>73</item>
+        <item>140</item>
+        <item>313</item>
+        <item>82</item>
+    </integer-array>
+
+</resources>
